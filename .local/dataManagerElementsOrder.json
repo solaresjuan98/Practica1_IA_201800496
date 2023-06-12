@@ -12,6 +12,10 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "valor_captcha&Sequence_8",
+        "out_image&Sequence_1",
+        "CaptchaData&Sequence_7",
+        "FechaNacimiento&Sequence_6",
         "DPI&Sequence_6",
         "new_datatable&Sequence_1",
         "variable1&Sequence_4"
