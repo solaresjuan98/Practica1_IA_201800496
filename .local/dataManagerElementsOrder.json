@@ -12,6 +12,10 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "dpi_img&Sequence_10",
+        "cuerpo_correo&Sequence_1",
+        "asunto_correo&Sequence_1",
+        "correo_aux&Sequence_1",
         "valor_captcha&Sequence_8",
         "out_image&Sequence_1",
         "CaptchaData&Sequence_7",
